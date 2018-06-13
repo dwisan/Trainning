@@ -86,7 +86,7 @@ Module 7: Configure MySQL Cluster
     [x] MySQL Cluster Overview
     [x] Cluster Node: SQL Nodes
     [x] Cluster Node: Data Nodes
-    [x] [x] Cluster Node: Management Nodes
+    [x] Cluster Node: Management Nodes
     [x] Using NDB Storage Engine
     [x] Setup MySQL Cluster
 
