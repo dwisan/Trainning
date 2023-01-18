@@ -1,0 +1,11 @@
+version: '3.3'
+services:
+  mysql:
+    image: registry.mcs.psu.ac.th/mysql:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: "1qa2ws3ed"
+    ports:
+      - "172.18.111.16:3306:3306"
+    volumes:
+      - /home/docker/mysql1/data:/var/lib/mysql
